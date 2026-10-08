@@ -11,4 +11,4 @@
 
 - [Lab01 - Làm quen với Gymnasium](./Lab01/)
 - [Lab02 - Markov Decision Process (MDP) và Quy hoạch động](./Lab02/)
-- [Lab03 - Monte Carlo Methods.](./Lab03/)
+- [Lab03 - Monte Carlo Methods](./Lab03/)
