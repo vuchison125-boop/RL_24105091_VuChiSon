@@ -1,0 +1,4 @@
+﻿gymnasium[toy-text,classic-control]
+numpy
+matplotlib
+jupyter
